@@ -35,4 +35,3 @@
           /MMMMMMMMMMMMMMMMMMd.     `/++-.-yy/...osydh/-+oo:-`o//...oyodh+
           -hMMmssddd+:dMMmNMMh.     `.-=mmk.//^^^\\.^^`:++:^^o://^^^\\`::
           .sMMmo.    -dMd--:mN/`           ||--X--||          ||--X--||
-........../yddy/:...+hmo-...hdd:............\\=v=//............\\=v=//..........
